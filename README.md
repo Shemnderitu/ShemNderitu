@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shem-day
-- 👀 I’m interested in becoming an expert in information communication and technology whereby i can provide innovative solutions to user's problems.
-- 🌱 I’m currently learning on ways to combat operating systems compatability issues, languages such as Java, HTML, CSS and PHP.
-- 💞️ I’m looking to collaborate on web development, software development, database administration and network infrasructure development. 
+- 👀 I’m interested in software engineering where I can provide innovative solutions to user's problems.
+- 🌱 I’m currently learning on ways to develop software as well as combat systems/database compatability issues using languages such as C#, Java, PHP, HTML, and, CSS.
+- 💞️ I’m looking to collaborate on projects pertaining web development, software development, database administration and, network infrasructure development. 
 - 📫 How to reach me is through my email, shemnderituh@gmail.com
 
 <!---
