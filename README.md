@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @shem-day
-- 👀 I’m interested in mathematics and computer science fields where I can provide innovative solutions to user's problems.
-- 🌱 I’m currently learning on ways to develop software as well as combat systems/database compatability issues using languages such as C#, Java, PHP, HTML, and, CSS.
-- I am good at statistical research using R programming language and relational databases such as mySQL.
-- 💞️ I’m looking to collaborate on projects pertaining web development, software development, systems development, database administration and, network infrasructure development. 
-- 📫 How to reach me is through my email, shemnderituh@gmail.com
+👋 Hello, I'm Shem Nderitu, a Data Scientist passionate about uncovering insights from data and building predictive models.
+I specialize in data analysis, machine learning, and statistical modeling, with a focus on creating efficient, actionable solutions. I am always exploring new ways to leverage data to solve real-world problems.
 
-<!---
-shem-day/shem-day is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Areas of Expertise:
+
+Data Preprocessing & Feature Engineering
+
+Machine Learning Algorithms
+
+Predictive Modeling & Time Series Forecasting
+
+Data Visualization (using libraries like Matplotlib, Seaborn, Plotly)
+
+SQL and Database Management
+
+🔧 Technologies I Use:
+
+Languages: Python, R, SQL, Bash
+
+Libraries/Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
+
+Tools: Jupyter, Git, Docker, Tableau, Power BI
+
+Database Systems: MySQL, MongoDB
+
+🌱 I am constantly learning and exploring new techniques in data science, machine learning, and AI. Currently, I'm focused on improving my skills in data analysis and data visualization.
+
+💬 Let's connect! Feel free to reach out via email at shemnderituh@gmail.com
